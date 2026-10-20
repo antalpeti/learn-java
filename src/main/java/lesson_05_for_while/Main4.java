@@ -1,15 +1,13 @@
-package lesson06_array;
+package lesson_05_for_while;
 
 public class Main4 {
 
   public static void main(String[] args) {
 
-    int[] szamok = {5, 10, 15, 20};
-
     int osszeg = 0;
 
-    for (int i = 1; i < 3; i++) {
-      osszeg = osszeg + szamok[i];
+    for (int i = 1; i <= 4; i++) {
+      osszeg = osszeg + i;
     }
 
     System.out.println(osszeg);

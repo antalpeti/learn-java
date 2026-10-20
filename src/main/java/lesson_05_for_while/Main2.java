@@ -1,4 +1,4 @@
-package lesson05_for_while;
+package lesson_05_for_while;
 
 public class Main2 {
 

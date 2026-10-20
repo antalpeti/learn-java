@@ -1,4 +1,4 @@
-package lesson06_array;
+package lesson_06_array;
 
 public class Main3 {
 

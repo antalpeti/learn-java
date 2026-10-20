@@ -1,4 +1,4 @@
-package lesson03_operators;
+package lesson_03_operators;
 
 public class Main1 {
 
@@ -16,7 +16,7 @@ public class Main1 {
     double eredmeny = 10.0 / 3;
 
     System.out.println(eredmeny); // 3.3333333333333335
-    
+
   }
 
 }

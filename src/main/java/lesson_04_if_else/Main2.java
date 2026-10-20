@@ -1,4 +1,4 @@
-package lesson04_if_else;
+package lesson_04_if_else;
 
 public class Main2 {
 
