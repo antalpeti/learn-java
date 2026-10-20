@@ -1,4 +1,4 @@
-package lesson02;
+package lesson02_variables;
 
 public class Main1 {
 
@@ -6,7 +6,7 @@ public class Main1 {
 
     int eletkor = 25;
     String nev = "Péter";
- 
+
     System.out.println(nev);
     System.out.println(eletkor);
 
