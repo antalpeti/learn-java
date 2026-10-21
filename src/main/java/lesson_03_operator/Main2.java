@@ -1,4 +1,4 @@
-package lesson_03_operators;
+package lesson_03_operator;
 
 public class Main2 {
 

@@ -1,4 +1,4 @@
-package lesson_02_variables;
+package lesson_02_variable;
 
 public class Main2 {
 
