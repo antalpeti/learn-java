@@ -1,16 +1,9 @@
 package lesson_12_polymorphism;
 
-class Jarmu {
-
-  void mozog() {
-    System.out.println("Jármű mozog");
-  }
-}
-
 class Auto extends Jarmu {
 
   @Override
-  void mozog() {
+  public void mozog() {
     System.out.println("Autó gurul");
   }
 }
