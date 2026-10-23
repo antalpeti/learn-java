@@ -21,6 +21,8 @@ public class Main5 {
     Termek termek = new Termek();
 
     termek.setAr(-50);
+    System.out.println(termek.getAr());
+    
     termek.setAr(200);
 
     System.out.println(termek.getAr());
