@@ -9,6 +9,7 @@ public class Main2 {
     List<String> nevek = List.of("Anna", "Béla", "Csilla");
 
     nevek.forEach(nev -> System.out.println(nev));
+    nevek.forEach(System.out::println);
 
   }
 }
