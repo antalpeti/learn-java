@@ -1,12 +1,12 @@
 package lesson_09_costructor;
 
 
-class Auto {
+class Auto1 {
 
   String marka;
   int evjarat;
 
-  Auto(String m, int e) {
+  Auto1(String m, int e) {
     marka = m;
     evjarat = e;
   }
@@ -19,7 +19,7 @@ class Auto {
 public class Main1 {
 
   public static void main(String[] args) {
-    Auto auto = new Auto("Ford", 2006);
-    auto.bemutatkozik();
+    Auto1 auto1 = new Auto1("Ford", 2006);
+    auto1.bemutatkozik();
   }
 }
