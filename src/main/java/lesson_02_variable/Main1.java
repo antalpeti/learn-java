@@ -6,9 +6,11 @@ public class Main1 {
 
     int eletkor = 25;
     String nev = "Péter";
+    boolean eletbenVan = true;
 
     System.out.println(nev);
     System.out.println(eletkor);
+    System.out.println(eletbenVan);
 
   }
 }
